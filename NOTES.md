@@ -4,11 +4,13 @@ Play computer in your head!
 
 ## Course intro
 
-“Pick any field X, from archeology to zoology. There either is now a ‘computational X’ or there soon will be. And it’s widely viewed as the future of the field.” - Stephen Wolfram
+*“Pick any field X, from archeology to zoology. There either is now a ‘computational X’ or there soon will be. And it’s widely viewed as the future of the field.” * 
+Stephen Wolfram
+
 http://blog.stephenwolfram.com/2016/09/how-to-teach-computational-thinking/
 
 #### Presentation
-- who I am? where I am from? what I do?
+- who I am? where I am from? what do I do?
 - where else do I teach?
 - what else do I do?
 - what will this course be about?
@@ -33,16 +35,19 @@ http://blog.stephenwolfram.com/2016/09/how-to-teach-computational-thinking/
 
 
 # Read 
+
 Marc Andreessen "Why software is eating the world", Aug 20, 2011
+
 https://a16z.com/2016/08/20/why-software-is-eating-the-world/
 
-Notice that "Software will eat the world" is actually "a thing" on the Internet, it is a very influential essay in the industry, less well known in academia.
+Notice that "Software will eat the world" is actually "a thing" on the Internet, it is a very influential essay in industry, but less well known in academia.
 
 complimentary readings:
-    https://techcrunch.com/2016/06/07/software-is-eating-the-world-5-years-later/
-    https://www.technologyreview.com/s/607831/nvidia-ceo-software-is-eating-the-world-but-ai-is-going-to-eat-software/
+https://techcrunch.com/2016/06/07/software-is-eating-the-world-5-years-later/
 
-    Amazon (1994), Facebook (2004), Twitter (2006), iPhone (2007), Airbn (2008), Uber (2009)
+https://www.technologyreview.com/s/607831/nvidia-ceo-software-is-eating-the-world-but-ai-is-going-to-eat-software/
+
+*Amazon (1994), Facebook (2004), Twitter (2006), iPhone (2007), Airbn (2008), Uber (2009)*
 
 Discuss:
     "Six decades into the computer revolution, four decades since the invention of the microprocessor, and two decades into the rise of the modern Internet, all of the technology required to transform industries through software finally works and can be widely delivered at global scale."
@@ -79,17 +84,17 @@ Perhaps the least interesting aspect of learning how to program is the code itse
 
 Think from the moment you woke up this morning... what digital systems (or software) have you used?
 
-    - my android phone, used to:
-        - read the news
-        - take some pictures of Lueneburg
-        - look up the train schedules
-        - text my friends back in Amsterdam
-    - my laptop
-        - to prepare this session
-        - to write some code
-    - the coffee machine
-    - the train ticket vending machine
-    - the train itself (complex)
+- my android phone, used to:
+    - read the news
+    - take some pictures of Lueneburg
+    - look up the train schedules
+    - text my friends back in Amsterdam
+- my laptop
+    - to prepare this session
+    - to write some code
+- the coffee machine
+- the train ticket vending machine
+- the train itself (complex)
 
 And it isn't lunchtime yet...
 
