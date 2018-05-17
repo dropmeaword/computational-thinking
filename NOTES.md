@@ -4,8 +4,8 @@ Play computer in your head!
 
 ## Course intro
 
-*“Pick any field X, from archeology to zoology. There either is now a ‘computational X’ or there soon will be. And it’s widely viewed as the future of the field.” * 
-Stephen Wolfram
+** "Pick any field X, from archeology to zoology. There either is now a ‘computational X’ or there soon will be. And it’s widely viewed as the future of the field." **
+*Stephen Wolfram*
 
 http://blog.stephenwolfram.com/2016/09/how-to-teach-computational-thinking/
 
@@ -36,16 +36,14 @@ http://blog.stephenwolfram.com/2016/09/how-to-teach-computational-thinking/
 
 # Read 
 
-Marc Andreessen "Why software is eating the world", Aug 20, 2011
-
 https://a16z.com/2016/08/20/why-software-is-eating-the-world/
+Marc Andreessen "Why software is eating the world", Aug 20, 2011
 
 Notice that "Software will eat the world" is actually "a thing" on the Internet, it is a very influential essay in industry, but less well known in academia.
 
 complimentary readings:
-https://techcrunch.com/2016/06/07/software-is-eating-the-world-5-years-later/
-
-https://www.technologyreview.com/s/607831/nvidia-ceo-software-is-eating-the-world-but-ai-is-going-to-eat-software/
+- https://techcrunch.com/2016/06/07/software-is-eating-the-world-5-years-later/
+- https://www.technologyreview.com/s/607831/nvidia-ceo-software-is-eating-the-world-but-ai-is-going-to-eat-software/
 
 *Amazon (1994), Facebook (2004), Twitter (2006), iPhone (2007), Airbn (2008), Uber (2009)*
 
